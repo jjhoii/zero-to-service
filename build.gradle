@@ -19,7 +19,7 @@ plugins {
     id 'io.spring.dependency-management' version "${springDependencyMgmtVer}.RELEASE"
 }
 
-group 'org.jhjeong'
+group 'com.jhjeong'
 version '1.0-SNAPSHOT'
 
 repositories {

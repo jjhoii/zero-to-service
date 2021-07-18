@@ -1,6 +1,6 @@
 package com.jhjeong.zerotoservice.web.dto;
 
-import com.jhjeong.zerotoservice.domain.Posts;
+import com.jhjeong.zerotoservice.domain.posts.Posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

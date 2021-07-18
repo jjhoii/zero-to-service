@@ -1,7 +1,7 @@
 package com.jhjeong.zerotoservice.service.posts;
 
-import com.jhjeong.zerotoservice.domain.Posts;
-import com.jhjeong.zerotoservice.domain.PostsRepository;
+import com.jhjeong.zerotoservice.domain.posts.Posts;
+import com.jhjeong.zerotoservice.domain.posts.PostsRepository;
 import com.jhjeong.zerotoservice.web.dto.PostsResponseDto;
 import com.jhjeong.zerotoservice.web.dto.PostsSaveRequestDto;
 import com.jhjeong.zerotoservice.web.dto.PostsUpdateRequestDto;

@@ -1,7 +1,9 @@
-package com.jhjeong.zerotoservice.domain;
+package com.jhjeong.zerotoservice.domain.posts;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import com.jhjeong.zerotoservice.domain.posts.Posts;
+import com.jhjeong.zerotoservice.domain.posts.PostsRepository;
 import java.util.List;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;

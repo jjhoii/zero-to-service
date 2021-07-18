@@ -2,8 +2,8 @@ package com.jhjeong.zerotoservice.web;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.jhjeong.zerotoservice.domain.Posts;
-import com.jhjeong.zerotoservice.domain.PostsRepository;
+import com.jhjeong.zerotoservice.domain.posts.Posts;
+import com.jhjeong.zerotoservice.domain.posts.PostsRepository;
 import com.jhjeong.zerotoservice.web.dto.PostsSaveRequestDto;
 import com.jhjeong.zerotoservice.web.dto.PostsUpdateRequestDto;
 import java.util.List;

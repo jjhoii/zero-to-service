@@ -1,4 +1,4 @@
-package com.jhjeong.zerotoservice.domain;
+package com.jhjeong.zerotoservice.domain.posts;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

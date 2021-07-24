@@ -45,6 +45,9 @@ dependencies {
     // spring security
     compile('org.springframework.boot:spring-boot-starter-oauth2-client')
 
+    // session
+    compile('org.springframework.session:spring-session-jdbc')
+
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
